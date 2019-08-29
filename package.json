@@ -1,5 +1,12 @@
 {
   "dependencies": {
     "discord.js": "discordjs/discord.js"
-  }
+  },
+  "name": "skybotbeta",
+  "version": "0.1.0",
+  "description": "SkyBot béta de SkyTiiKz",
+  "main": "main.js",
+  "repository": "https://github.com/SkyTiiKz/bot-sky.git",
+  "author": "leo <leo.marquilly@gmail.com>",
+  "license": "MIT"
 }
